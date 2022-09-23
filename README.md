@@ -1,6 +1,9 @@
 # bikesharing
 # Overview 
-In our project, we are helping Jeremy perform a statistical test using the programming language R. Our research will be based on CitiBike in New York then use that result to convince potentials investors to replicate the same type of business in De Moines, IOWA. We will accomplish summary test, statistics test and interpret the results.  [link to dashboard]("https://public.tableau.com/app/profile/fatoumata.kourouma")
+In our project, we are helping Jeremy perform a statistical test using the programming language R. Our research will be based on CitiBike in New York then use that result to convince potentials investors to replicate the same type of business in De Moines, IOWA. We will accomplish summary test, statistics test and interpret the results.  
+
+[link to dashboard]("https://public.tableau.com/app/profile/fatoumata.kourouma")
+
 This project will lead us to three deliverables:
 ## Deliverable 1
 Using the NYC Citibike starter code, weÕll use Pandas to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes. 
