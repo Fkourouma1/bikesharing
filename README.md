@@ -2,7 +2,7 @@
 # Overview 
 In our project, we are helping Jeremy perform a statistical test using the programming language R. Our research will be based on CitiBike in New York then use that result to convince potentials investors to replicate the same type of business in De Moines, IOWA. We will accomplish summary test, statistics test and interpret the results.  
 
-[link to dashboard](Profile - fatoumata.kourouma | Tableau Public)
+[link to dashboard](Profile - fatoumata.kourouma | Tableau Public) (https://public.tableau.com/app/profile/fatoumata.kourouma)
 
 This project will lead us to three deliverables:
 ## Deliverable 1
